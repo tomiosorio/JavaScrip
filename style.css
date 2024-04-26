@@ -1,0 +1,39 @@
+
+  .azul {
+    background-color: rgba(73, 81, 89, 0.33);
+
+  }
+  
+  .verde {
+    background-color: rgb(14, 81, 93);
+    text-align: center;
+    display: inline-block;
+    border: 2px solid black;
+    padding: 1rem;
+    margin: 1rem;
+  }
+
+body{
+  background-image: url(./img/fondo2.jpg);
+
+}
+img {
+  width: 15rem;
+  height: 15rem;
+}
+.titulo{
+  color: antiquewhite;
+  text-align: center;
+}
+.textform{
+  color: white;
+}
+
+.prox {
+  background-color: rgb(153, 49, 49);
+  text-align: center;
+  display: inline-block;
+  border: 2px solid rgb(255, 255, 255);
+  padding: 1rem;
+  margin: 1rem;
+}

@@ -1,0 +1,7 @@
+
+  [
+    { "id": 1, "nombre": "JBL-Tune", "precio": 735, "img":"img/jbltune.jpg"},
+    { "id": 2, "nombre": "Samsung-Music", "precio": 1500, "img":"img/sam2.jpg" },
+    { "id": 3, "nombre": "Sony-Xperia", "precio": 1300, "img":"img/sony2.jpg" },
+    { "id": 4, "nombre": "Noblex-HP350", "precio": 570, "img":"img/noblex2.jpg" }
+  ]
